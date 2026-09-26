@@ -239,4 +239,4 @@ This repository serves as the official landing page for PunkBuster. The software
 **Get the most recent version of PunkBuster today!**
 
 ---
-**Last updated:** 2026-09-26 06:49:47 UTC
+**Last updated:** 2026-09-26 11:56:25 UTC
